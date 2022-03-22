@@ -1,2 +1,2 @@
 # CodePath-Prework-SITE
-CodePath SITE pre work
+CodePath SITE pre work project
