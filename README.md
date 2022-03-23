@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![Game Loss](https://media.giphy.com/media/f9cFlyR9bARSW8VBrP/giphy.gif)
-![Game Win](http://g.recordit.co/vx6GJazJF5.gif)
-![Timer Loss](http://g.recordit.co/DwHWNX13rV.gif)
+![Game Win](https://media.giphy.com/media/8u1FPANXjgMoL6gfKw/giphy.gif)
+![Timer Loss](https://media.giphy.com/media/bXHjH7DZJDHC3tJ5xD/giphy.gif)
 ![](gif4-link-here)
 
 ## Reflection Questions
