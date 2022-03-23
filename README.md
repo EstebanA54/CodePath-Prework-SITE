@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![Game Loss](http://g.recordit.co/OzdAArcRl2.gif)
+![Game Loss](https://media.giphy.com/media/f9cFlyR9bARSW8VBrP/giphy.gif)
 ![Game Win](http://g.recordit.co/vx6GJazJF5.gif)
 ![Timer Loss](http://g.recordit.co/DwHWNX13rV.gif)
 ![](gif4-link-here)
