@@ -39,9 +39,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![Game Loss](https://media.giphy.com/media/f9cFlyR9bARSW8VBrP/giphy.gif)Game Loss
-![Game Win](https://media.giphy.com/media/8u1FPANXjgMoL6gfKw/giphy.gif)Game Win
-![Timer Loss](https://media.giphy.com/media/bXHjH7DZJDHC3tJ5xD/giphy.gif)Timer Loss
+![Game Loss](https://media.giphy.com/media/f9cFlyR9bARSW8VBrP/giphy.gif)
+Game Loss
+![Game Win](https://media.giphy.com/media/8u1FPANXjgMoL6gfKw/giphy.gif)
+Game Win
+![Timer Loss](https://media.giphy.com/media/bXHjH7DZJDHC3tJ5xD/giphy.gif)
+Timer Loss
 ![](gif4-link-here)
 
 ## Reflection Questions
